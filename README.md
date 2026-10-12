@@ -14,9 +14,7 @@ We developed a high-throughput phenotyping pipeline for assessment of juvenile s
 
 ### Schematic overview
 
-<img width="3000" height="2100" alt="Infographic_DL_pipeline_v6" src="https://github.com/user-attachments/assets/0b6bd114-14ed-47aa-a7e6-c4308d576226" />
-
-
+<img width="2863" height="1930" alt="Infographic_DL_pipeline_crop" src="https://github.com/user-attachments/assets/45c81314-2a51-4075-a574-982b3133f17b" />
 
 ### Prerequisites
 
