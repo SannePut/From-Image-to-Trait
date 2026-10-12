@@ -1,0 +1,15 @@
+Classes:
+1 = Egg
+2 = Floating_sporophyte (OFS)
+3 = Old_sporophyte/>64 cells
+4 = Marker
+5 = Young_sporophyte/<64 cells
+6 = Zygote
+
+Number of instances per class:
+1 = 140
+2 = 712
+3 = 449
+4 = 302
+5 = 461
+6 = 203
